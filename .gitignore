@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+data/*
+data.zip
+run/*
+mac_sim
+mac_sim.app/*
